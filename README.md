@@ -1,5 +1,4 @@
 * ✉️  You can contact me at [mfachrudin27@gmail.com](mailto:mfachrudin27@gmail.com)
-* ⚡  Dua tiga kacang telur, lanjutt ....
 
 ### 🛠️ Languages and Tools
 
