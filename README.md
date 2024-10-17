@@ -13,3 +13,6 @@
 <a href="http://www.github.com/fachrudin27"><img src="https://github-readme-stats.vercel.app/api?username=fachrudin27&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=10b981&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="fachrudin27's GitHub stats" /></a>
 
 <a href="https://github.com/fachrudin27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fachrudin27&langs_count=10&title_color=6366f1&text_color=10b981&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-kappa-neon.vercel.app/api?username=fachrudin27&theme=radical&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Fachrudin github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-kappa-neon.vercel.app/api/top-langs/?username=fachrudin27&layout=compact&theme=merko&hide_border=true" /></a> |
+| ------------- | ------------- |
